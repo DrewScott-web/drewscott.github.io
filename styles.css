@@ -1,0 +1,35 @@
+
+/* This block of code is for formatting the title */
+h1 {
+    font-size: 28px;
+    color:blue;
+    font-family: "Arial"
+}
+/* This block of code is for formatting the headings */
+h2{
+    color:rgb(223, 18, 18)
+}
+
+.specialH4 {
+    color:aquamarine;
+    background-color: black
+}
+
+a:hover {
+    background-color: yellow;
+  
+
+}
+
+body {
+    background-image:url(zag\ logo.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.box{
+    border-width: 1px;
+    border-style: solid;
+    padding: 15px;
+    margin: 25px;
+}
